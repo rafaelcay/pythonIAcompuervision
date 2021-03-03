@@ -5,7 +5,7 @@ Localizar claves y puntos de conexion
 https://raw.githubusercontent.com/rafaelcay/pythonIAcomputervision/master/assets/img2.PNG
 
 Copiar la clave 1 o 2 y el enpoint o extremo
-https://raw.githubusercontent.com/rafaelcay/pythonIAcomputervision/master/assets/img1.PNG
+![alt text](https://raw.githubusercontent.com/rafaelcay/pythonIAcomputervision/master/assets/img1.PNG)
 
 final mente AGREGAR los datos anteriores aa la siguiente parte del codigo 
 
